@@ -10,7 +10,7 @@ Zapisane.
 
 ##Licencja
 
-*APACHE
+*APACHE commons jest fajna
 
 MIT
 
