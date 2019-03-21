@@ -6,3 +6,7 @@ Zapisane.
 ## Wymagania
 
 Nie ma ¿adnych.
+
+##Licencja
+
+MIT
