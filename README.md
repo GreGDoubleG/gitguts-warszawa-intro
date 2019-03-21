@@ -16,3 +16,5 @@ CC
 
 infoShare Academy
 
+Ten projekt jest stworzone przezemnie!
+
