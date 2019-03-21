@@ -10,8 +10,7 @@ Zapisane.
 
 ##Licencja
 
-MIT
-
+CC
 
 ## Autor
 
