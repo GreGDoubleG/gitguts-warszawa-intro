@@ -10,8 +10,6 @@ Zapisane.
 
 ##Licencja
 
-*APACHE
-
 MIT
 
 
