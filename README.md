@@ -5,12 +5,17 @@ Zapisane.
 
 ## Wymagania
 
-Nie ma ¿adnych.
+*Node JS v 8.0
+
 
 ##Licencja
 
+*APACHE
+
 MIT
+
 
 ## Autor
 
 infoShare Academy
+
